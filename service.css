@@ -1,0 +1,35 @@
+.container {
+
+    display: flex;
+    margin-top: 120px;
+    gap: 80px;
+    
+}
+
+.imagem img {
+
+    width: 890px;
+    height: 521px;
+
+}
+
+.textos{
+
+    margin-top: -35px;
+    font-family: Poppins;
+}
+
+.titulo {
+
+    font-size: 66px;
+    color: #414141;
+
+}
+
+.text {
+
+    font-size: 26px;
+    color: #818181;
+    margin-top: -10px;
+
+}

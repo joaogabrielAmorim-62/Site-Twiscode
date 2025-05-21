@@ -1,0 +1,41 @@
+.content {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 180px;
+    gap: 80px;
+}
+
+.text {
+
+    font-family: Poppins;
+    margin-top: -20px;
+}
+
+.p1 {
+
+    font-size: 40px;
+    color: #414141;
+}
+
+.p2 {
+
+    font-size: 29px;
+    color: #9F9F9F;
+
+}
+
+.text button {
+
+    border: none;
+    background: white;
+    font-size: 23px;
+    margin-top: 13px;
+    color: yellowgreen;
+
+}
+
+.img img {
+    width: 490px;
+    margin-top: 20px;
+}

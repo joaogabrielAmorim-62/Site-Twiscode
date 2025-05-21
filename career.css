@@ -1,0 +1,120 @@
+.container {
+
+    font-family: Poppins;
+    margin-top: 90px;
+    
+}
+
+.imagem1 {
+
+    display: flex;
+    justify-content: center;
+}
+
+.imagem1 img {
+
+    width: 1210px;
+}
+
+
+.content {
+
+    display: flex;
+    justify-content: center;
+    gap: 320px;
+    margin-top: 95px;
+}
+
+.company {
+
+    margin-left: -40px;
+}
+
+.location {
+
+    text-align: center;
+}
+
+.location p {
+
+    color: #414141;
+    font-size: 25px;
+}
+.location img {
+
+    width: 360px;
+}
+
+.title {
+
+    font-size: 25px;
+    color: #414141;
+}
+
+.text {
+
+    font-size: 16px;
+    color: #9F9F9F;
+}
+
+.face {
+
+    margin-top: -15px;
+    display: flex;
+    gap: 20px;
+}
+
+.face img {
+
+    width: 23px;
+    
+}
+
+.face p {
+
+    font-size: 16px;
+    color: #9F9F9F;
+}
+
+.insta {
+
+    display: flex;
+    gap: 20px;
+}
+
+.insta img {
+
+    width: 23px;
+}
+
+.insta p {
+
+    font-size: 16px;
+    color: #9F9F9F;
+
+}
+
+.email {
+
+    display: flex;
+    gap: 20px;
+}
+
+.email img{
+
+    width: 23px;
+
+}
+
+.email p {
+
+    font-size: 16px;
+    color: #9F9F9F;
+}
+
+.final {
+
+    margin-top: 45px;
+    box-shadow: 0px -4px 5px rgba(0, 0, 0, 0.06);
+    padding: 4px 240px;
+}

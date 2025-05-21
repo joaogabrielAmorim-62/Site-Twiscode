@@ -1,0 +1,36 @@
+.container {
+
+    font-family: Poppins;
+    margin-top: 60px;
+    
+}
+
+.titulo {
+    text-align: center;
+    font-size: 38px;
+    color: #414141;
+
+} 
+.team {
+
+    margin-top: 70px;
+    display: flex;
+    gap: 70px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.nome {
+
+    font-size: 25px;
+    color: #414141;
+}
+
+.cargo {
+
+    font-size: 25px;
+    color: #9F9F9F;
+
+}

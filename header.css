@@ -1,0 +1,44 @@
+.header {
+
+    padding: 5px 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 4px 5px 0px rgba(0, 0, 0, 0.06);
+}
+
+.items img {
+    margin-left: 100px; 
+    width: 20px;        
+    height: 20px;
+    cursor: pointer;
+}
+
+.img1 {
+
+    width: 150px;
+
+}
+
+.items {
+
+    font-family: Poppins;
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    
+}
+
+.items a {
+
+    text-decoration: none;
+    color: black;
+    
+}
+
+.items a:hover {
+
+    color: #007bff;
+    transition: color 0.3s ease;
+
+}
